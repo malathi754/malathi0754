@@ -37,12 +37,8 @@
 	  <a href="home"><span class="glyphicon glyphicon-home"></span>Home</a></li>
 	  <li>   <a href="1">About Us</a></li>
 	 <li> <a href="2" ><span class="fa fa-phone"></span> Contact us</a></li>
-	  <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Product<span class="caret"> </span></a>
-	   <ul class="dropdown-menu">
-	  <li><a href="#"> All Toys </a></li>
-	  <li><a href="#"> Soft Toys </a></li>
-	  <li><a href="#"> Puzzles </a></li>
-	  <li><a href="#"> Learning & Education </a></li>	</ul> 
+	  <li> <a href="product" ><span class="fa fa-smiley"></span> Product</a></li>
+	  	</ul> 
 	</li>
       
     </ul>
